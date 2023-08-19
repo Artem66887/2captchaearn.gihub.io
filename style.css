@@ -1,0 +1,47 @@
+.p{
+    position: absolute;
+    top: 19px;
+    left: 49px;
+    font-size: 47px;
+    font-style: bold;
+    color: green;
+}
+.i{
+    width: 1500px;
+    height: 100px;
+    background: yellow;
+}
+.u{
+    position: absolute;
+    top: 4px;
+    left: 659px;
+    width: 200px;
+    height: 200px;
+    font-size: 27px;
+    text-align: center;
+    font-style: bold;
+    color: blue;
+}
+.t{
+    padding-left: 860px;
+    padding-top: 8px;
+}
+.s1{
+    text-align: center;
+}
+.s2{
+    padding-left: 410px;
+}
+.plkh{
+    width: 670px;
+    height: 900px;
+    padding-left: 400px;
+}
+.d{
+    font-size: 25px;
+    line-height: 40px;
+}
+.pk{
+    padding-left: 190px;
+    color: darkblue;
+}
